@@ -1,10 +1,10 @@
-# Twitter's website recreation
+# Twitter website recreation
 >status: Completed ✅
 
 # About the project.
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) A faithful recreation of the Twitter website.
 
-![Print Twitter's website](https://github.com/PedroCuri88/Twitter---Website/assets/174622769/49df52df-55f8-4de4-b71c-5d94b3cc23ee)
+![Print Twitter website](https://github.com/PedroCuri88/Twitter---Website/assets/174622769/49df52df-55f8-4de4-b71c-5d94b3cc23ee)
 
 # Technologies used
 ## Front-end
