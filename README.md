@@ -1,4 +1,4 @@
-# Twitter website recreation
+# Twitter website
 >status: Completed ✅
 
 # About the project.
